@@ -1,6 +1,6 @@
 <h3 align="center">A junior frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Reactjs, PHP,**
+- 🌱 I’m currently learning **Reactjs, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
